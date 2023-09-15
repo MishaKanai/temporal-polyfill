@@ -1,5 +1,5 @@
 {
-  "name": "@js-temporal/polyfill",
+  "name": "@mishakanai/js-temporal-polyfill",
   "version": "0.4.4",
   "description": "Polyfill for Tc39 Stage 3 proposal Temporal (https://github.com/tc39/proposal-temporal)",
   "type": "module",
